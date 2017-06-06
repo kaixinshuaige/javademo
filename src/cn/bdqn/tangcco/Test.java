@@ -5,6 +5,8 @@ package cn.bdqn.tangcco;
  */
 public class Test {
     public static void main(String[] args) {
+
         System.out.println("马保生");
+        System.out.println("景凡打马保生，哈哈，很皮");
     }
 }
